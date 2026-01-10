@@ -20,4 +20,3 @@ while not adivinado:
     else:
         print("El numero es menor")
 
-        
